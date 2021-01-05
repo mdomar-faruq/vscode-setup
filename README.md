@@ -3,13 +3,13 @@
 EXTENSIONS
 
 
-1.Auto Rename Tag
+1.Auto Rename Tag- 
 Auto rename paired HTML/XML tag
 
-2.Bracket Pair Colorizer
+2.Bracket Pair Colorizer- 
 A customizable extension for colorizing matching brackets
 
-3.ES7 React/Redux/GraphQL/React-Native snippets
+3.ES7 React/Redux/GraphQL/React-Native snippets- 
 Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax
 
 "emmet.includeLanguages": {
@@ -39,13 +39,13 @@ Highlights matching closing or opening tag
     }
   }
   
-4.indent-rainbow
+4.indent-rainbow- 
 Makes indentation easier to read
 
-5.Live Server
+5.Live Server- 
 Launch a development local Server with live reload feature for static & dynamic pages
 
-6.MDX
+6.MDX- 
 Provides syntax highlighting and bracket matching for MDX (JSX in Markdown) files.
 
 7.Prettier - Code formatter
@@ -56,17 +56,17 @@ VS Code plugin for prettier/prettier
 Preview on Web Server
 Preview Web Page on Web Server.
 
-8.Quokka.js
+8.Quokka.js- 
 Live Scratchpad for JavaScript.
 
-9.Svelte
+9.Svelte- 
 Svelte language support for VS Code
 
-10.Svelte 3 Snippets
+10.Svelte 3 Snippets- 
 Svelte 3 Snippets for VS Code
 
-11.Svelte Intellisense
+11.Svelte Intellisense- 
 Provides intellisense for data, events, slots etc. in components.
 
-12.vscode-styled-components
+12.vscode-styled-components- 
 Syntax highlighting for styled-components
